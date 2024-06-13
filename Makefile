@@ -30,7 +30,6 @@ BIN_DIR 	 = $(SRCROOT)/binary
 
 
 vpath  %.c $(SRCROOT)/Libraries/STM32F4xx_StdPeriph_Driver/src
-vpath  %.c $(SRCROOT)/Libraries/syscall
 vpath  %.c $(SRCROOT)/hardware
 vpath  %.c $(SRCROOT)/startup
 vpath  %.c $(FREERTOS)
@@ -48,7 +47,6 @@ ASRC		= startup_stm32f4xx.s
 SRC		+= stm32f4xx_it.c
 SRC		+= system_stm32f4xx.c
 SRC		+= main.c
-SRC		+= syscalls.c
 # FreeRTOS Source Files
 SRC		+= port.c
 SRC		+= list.c

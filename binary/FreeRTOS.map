@@ -1,0 +1,1276 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
+                              /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o (__errno)
+/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+                              /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+                              /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+                              /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+                              /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o (memcpy)
+/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+                              /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+                              /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o) (__call_exitprocs)
+/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+                              /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o) (atexit)
+/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+                              /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+                              /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+                              /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000000       0x7c /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x70 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .rodata.AHBPrescTable
+                0x0000000000000000       0x10 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .rodata.APBPrescTable
+                0x0000000000000000        0x8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .text.vApplicationGetIdleTaskMemory
+                0x0000000000000000       0x1c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .text.vApplicationGetTimerTaskMemory
+                0x0000000000000000       0x20 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .bss.uxIdleTaskStack.0
+                0x0000000000000000      0x208 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .bss.uxTimerTaskStack
+                0x0000000000000000      0x410 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .bss.xIdleTaskTCB.1
+                0x0000000000000000       0x58 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .bss.xTimerTaskTCB
+                0x0000000000000000       0x58 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .text._open    0x0000000000000000        0x8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .text._read    0x0000000000000000       0x10 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .text._lseek   0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .text._write   0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .text._close   0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .text._sbrk    0x0000000000000000       0x38 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .text._fstat   0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .text._isatty  0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .text._kill    0x0000000000000000       0x10 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .text._getpid  0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .bss.heap_end.0
+                0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .debug_info    0x0000000000000000      0x589 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .debug_abbrev  0x0000000000000000      0x192 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .debug_loc     0x0000000000000000      0x24f /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .debug_aranges
+                0x0000000000000000       0x68 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .debug_ranges  0x0000000000000000       0x58 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .debug_line    0x0000000000000000      0x2c2 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .debug_str     0x0000000000000000      0x3be /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .comment       0x0000000000000000       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .debug_frame   0x0000000000000000       0xd0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .text.vPortEndScheduler
+                0x0000000000000000       0x24 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .text.vPortValidateInterruptPriority
+                0x0000000000000000       0x5c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.xQueueGenericReset
+                0x0000000000000000       0x8c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.xQueueCreateCountingSemaphore
+                0x0000000000000000       0x88 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.xQueueCreateMutex
+                0x0000000000000000       0x6c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.xQueueGiveMutexRecursive
+                0x0000000000000000       0x40 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.xQueueGenericSendFromISR
+                0x0000000000000000       0xc8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.xQueueGiveFromISR
+                0x0000000000000000       0xb0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.xQueueTakeMutexRecursive
+                0x0000000000000000       0x44 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.xQueueReceiveFromISR
+                0x0000000000000000       0xbc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.xQueuePeekFromISR
+                0x0000000000000000       0x8c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.uxQueueMessagesWaiting
+                0x0000000000000000       0x2c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.uxQueueSpacesAvailable
+                0x0000000000000000       0x30 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.vQueueDelete
+                0x0000000000000000       0x84 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.uxQueueGetQueueNumber
+                0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.vQueueSetQueueNumber
+                0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.ucQueueGetQueueType
+                0x0000000000000000        0x8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x0000000000000000       0x20 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x0000000000000000       0x24 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.pcQueueGetName
+                0x0000000000000000       0x60 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.vQueueUnregisterQueue
+                0x0000000000000000       0x64 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.vTaskDelete
+                0x0000000000000000      0x108 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.eTaskGetState
+                0x0000000000000000       0x7c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.uxTaskPriorityGet
+                0x0000000000000000       0x24 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x0000000000000000       0x38 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.vTaskPrioritySet
+                0x0000000000000000       0xe4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.vTaskSuspend
+                0x0000000000000000      0x17c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.vTaskResume
+                0x0000000000000000       0xa4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.xTaskResumeFromISR
+                0x0000000000000000       0xbc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.vTaskEndScheduler
+                0x0000000000000000       0x20 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x0000000000000000       0x10 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.pcTaskGetName
+                0x0000000000000000       0x24 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.prvListTasksWithinSingleList.part.0
+                0x0000000000000000       0xf4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.uxTaskGetSystemState
+                0x0000000000000000       0xf0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.vTaskDelayUntil
+                0x0000000000000000       0xa8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x0000000000000000       0x58 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.xTaskRemoveFromUnorderedEventList
+                0x0000000000000000       0x8c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.uxTaskGetTaskNumber
+                0x0000000000000000        0x8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.vTaskSetTaskNumber
+                0x0000000000000000        0x8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.vTaskGetInfo
+                0x0000000000000000      0x128 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.ulTaskNotifyTake
+                0x0000000000000000       0x68 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.xTaskNotifyWait
+                0x0000000000000000       0x98 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.xTaskGenericNotify
+                0x0000000000000000       0xe0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x0000000000000000      0x108 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.vTaskNotifyGiveFromISR
+                0x0000000000000000       0xd8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.xTaskNotifyStateClear
+                0x0000000000000000       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .text.xEventGroupCreate
+                0x0000000000000000       0x1c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .text.xEventGroupWaitBits
+                0x0000000000000000      0x110 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .text.xEventGroupClearBits
+                0x0000000000000000       0x48 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x0000000000000000       0x1c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .text.xEventGroupSetBits
+                0x0000000000000000       0x94 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .text.xEventGroupSync
+                0x0000000000000000       0xf0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .text.vEventGroupDelete
+                0x0000000000000000       0x44 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x0000000000000000       0x94 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x0000000000000000       0x48 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .text.uxEventGroupGetNumber
+                0x0000000000000000        0x8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .debug_info    0x0000000000000000      0xfac /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .debug_abbrev  0x0000000000000000      0x2dc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .debug_loc     0x0000000000000000      0xf55 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .debug_aranges
+                0x0000000000000000       0x68 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .debug_ranges  0x0000000000000000      0x118 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .debug_line    0x0000000000000000      0xbd3 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .debug_str     0x0000000000000000      0x6a3 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .comment       0x0000000000000000       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .debug_frame   0x0000000000000000      0x14c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .text.xTimerCreate
+                0x0000000000000000       0xb0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .text.xTimerGenericCommand
+                0x0000000000000000       0x6c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .text.xTimerGetTimerDaemonTaskHandle
+                0x0000000000000000       0x20 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .text.xTimerGetPeriod
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .text.xTimerGetExpiryTime
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .text.pcTimerGetName
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .text.xTimerIsTimerActive
+                0x0000000000000000       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .text.pvTimerGetTimerID
+                0x0000000000000000       0x2c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .text.vTimerSetTimerID
+                0x0000000000000000       0x28 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .text.xPortGetFreeHeapSize
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .text.vPortInitialiseBlocks
+                0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_DeInit
+                0x0000000000000000       0x50 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_HSEConfig
+                0x0000000000000000       0x10 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x0000000000000000       0x30 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000000000000       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_HSICmd
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_LSEConfig
+                0x0000000000000000       0x28 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_LSICmd
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_PLLConfig
+                0x0000000000000000       0x24 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_PLLCmd
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_PLLI2SConfig
+                0x0000000000000000       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_PLLI2SCmd
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_PLLSAIConfig
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_PLLSAICmd
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_MCO1Config
+                0x0000000000000000       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_MCO2Config
+                0x0000000000000000       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x0000000000000000       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x0000000000000000       0x10 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_HCLKConfig
+                0x0000000000000000       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_PCLK1Config
+                0x0000000000000000       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_PCLK2Config
+                0x0000000000000000       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_GetClocksFreq
+                0x0000000000000000       0x90 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x0000000000000000       0x30 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_BackupResetCmd
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_I2SCLKConfig
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_SAIBlockACLKConfig
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_SAIBlockBCLKConfig
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_SAIPLLI2SClkDivConfig
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_SAIPLLSAIClkDivConfig
+                0x0000000000000000       0x1c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_LTDCCLKDivConfig
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_TIMCLKPresConfig
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphClockCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphResetCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphResetCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphResetCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_LSEModeConfig
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_ITConfig
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_GetFlagStatus
+                0x0000000000000000       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_ClearFlag
+                0x0000000000000000       0x10 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_GetITStatus
+                0x0000000000000000       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .data.APBAHBPrescTable
+                0x0000000000000000       0x10 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text.GPIO_DeInit
+                0x0000000000000000      0x15c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text.GPIO_StructInit
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text.GPIO_PinLockConfig
+                0x0000000000000000       0x24 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text.GPIO_ReadInputData
+                0x0000000000000000        0x8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputData
+                0x0000000000000000        0x8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text.GPIO_SetBits
+                0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text.GPIO_ResetBits
+                0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text.GPIO_WriteBit
+                0x0000000000000000        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text.GPIO_Write
+                0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text.GPIO_PinAFConfig
+                0x0000000000000000       0x28 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+ .text.NVIC_Init
+                0x0000000000000000       0x70 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+ .text.NVIC_SetVectorTable
+                0x0000000000000000       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+ .text.NVIC_SystemLPConfig
+                0x0000000000000000       0x1c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+ .text          0x0000000000000000       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/startup_stm32f4xx.o
+ .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/startup_stm32f4xx.o
+ .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/startup_stm32f4xx.o
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xcc /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x0000000000000000       0x24 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x0000000000080000 xr
+RAM              0x0000000020000000 0x0000000000020000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/syscalls.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/event_groups.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/startup_stm32f4xx.o
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+START GROUP
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+END GROUP
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000020020000                _estack = 0x20020000
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x188
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x188 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/startup_stm32f4xx.o
+                0x0000000008000000                g_pfnVectors
+                0x0000000008000188                . = ALIGN (0x4)
+
+.text           0x0000000008000190     0x247c
+                0x0000000008000190                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000190       0x40 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000080001d0      0x134 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+                0x00000000080001d0                memcpy
+ *(.text*)
+ .text.NMI_Handler
+                0x0000000008000304        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+                0x0000000008000304                NMI_Handler
+ .text.prvGetRegistersFromStack
+                0x0000000008000308       0x30 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+                0x0000000008000308                prvGetRegistersFromStack
+ .text.HardFault_Handler
+                0x0000000008000338       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+                0x0000000008000338                HardFault_Handler
+ .text.MemManage_Handler
+                0x0000000008000350        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+                0x0000000008000350                MemManage_Handler
+ .text.BusFault_Handler
+                0x0000000008000354        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+                0x0000000008000354                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000000008000358        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+                0x0000000008000358                UsageFault_Handler
+ .text.DebugMon_Handler
+                0x000000000800035c        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+                0x000000000800035c                DebugMon_Handler
+ .text.SystemInit
+                0x0000000008000360       0x50 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+                0x0000000008000360                SystemInit
+ .text.simple_task
+                0x00000000080003b0       0x1c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+                0x00000000080003b0                simple_task
+ .text.vApplicationIdleHook
+                0x00000000080003cc        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+                0x00000000080003cc                vApplicationIdleHook
+ .text.vApplicationStackOverflowHook
+                0x00000000080003d0        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+                0x00000000080003d0                vApplicationStackOverflowHook
+ .text.vApplicationMallocFailedHook
+                0x00000000080003d4        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+                0x00000000080003d4                vApplicationMallocFailedHook
+ .text.init_LED
+                0x00000000080003d8       0x2c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+                0x00000000080003d8                init_LED
+ .text.startup.main
+                0x0000000008000404       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+                0x0000000008000404                main
+ .text.prvTaskExitError
+                0x0000000008000438       0x30 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .text.prvPortStartFirstTask
+                0x0000000008000468       0x20 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .text.vPortEnableVFP
+                0x0000000008000488       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .text.pxPortInitialiseStack
+                0x000000000800049c       0x28 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+                0x000000000800049c                pxPortInitialiseStack
+ *fill*         0x00000000080004c4        0xc 
+ .text.SVC_Handler
+                0x00000000080004d0       0x24 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+                0x00000000080004d0                SVC_Handler
+ .text.vPortEnterCritical
+                0x00000000080004f4       0x44 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+                0x00000000080004f4                vPortEnterCritical
+ .text.vPortExitCritical
+                0x0000000008000538       0x28 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+                0x0000000008000538                vPortExitCritical
+ .text.PendSV_Handler
+                0x0000000008000560       0x64 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+                0x0000000008000560                PendSV_Handler
+ .text.SysTick_Handler
+                0x00000000080005c4       0x2c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+                0x00000000080005c4                SysTick_Handler
+ .text.vPortSetupTimerInterrupt
+                0x00000000080005f0       0x24 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+                0x00000000080005f0                vPortSetupTimerInterrupt
+ .text.xPortStartScheduler
+                0x0000000008000614       0xf4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+                0x0000000008000614                xPortStartScheduler
+ .text.vListInitialise
+                0x0000000008000708       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+                0x0000000008000708                vListInitialise
+ .text.vListInitialiseItem
+                0x0000000008000720        0x8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+                0x0000000008000720                vListInitialiseItem
+ .text.vListInsertEnd
+                0x0000000008000728       0x20 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+                0x0000000008000728                vListInsertEnd
+ .text.vListInsert
+                0x0000000008000748       0x30 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+                0x0000000008000748                vListInsert
+ .text.uxListRemove
+                0x0000000008000778       0x28 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+                0x0000000008000778                uxListRemove
+ .text.prvCopyDataToQueue
+                0x00000000080007a0       0x78 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .text.xQueueGenericCreate
+                0x0000000008000818       0x90 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+                0x0000000008000818                xQueueGenericCreate
+ .text.xQueueGenericSend
+                0x00000000080008a8      0x2fc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+                0x00000000080008a8                xQueueGenericSend
+ .text.xQueueGenericReceive
+                0x0000000008000ba4      0x354 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+                0x0000000008000ba4                xQueueGenericReceive
+ .text.vQueueAddToRegistry
+                0x0000000008000ef8       0x50 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+                0x0000000008000ef8                vQueueAddToRegistry
+ .text.vQueueWaitForMessageRestricted
+                0x0000000008000f48       0xc8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+                0x0000000008000f48                vQueueWaitForMessageRestricted
+ .text.prvAddCurrentTaskToDelayedList
+                0x0000000008001010       0x8c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.xTaskCreate
+                0x000000000800109c      0x220 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x000000000800109c                xTaskCreate
+ .text.vTaskStartScheduler
+                0x00000000080012bc      0x1e8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x00000000080012bc                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x00000000080014a4       0x10 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x00000000080014a4                vTaskSuspendAll
+ .text.xTaskGetTickCount
+                0x00000000080014b4        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x00000000080014b4                xTaskGetTickCount
+ .text.xTaskIncrementTick
+                0x00000000080014c0      0x16c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x00000000080014c0                xTaskIncrementTick
+ .text.xTaskResumeAll.part.0
+                0x000000000800162c      0x124 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.xTaskResumeAll
+                0x0000000008001750       0x20 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x0000000008001750                xTaskResumeAll
+ .text.prvIdleTask
+                0x0000000008001770       0xb4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .text.vTaskDelay
+                0x0000000008001824       0x60 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x0000000008001824                vTaskDelay
+ .text.vTaskSwitchContext
+                0x0000000008001884       0xa4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x0000000008001884                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x0000000008001928       0xa0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x0000000008001928                vTaskPlaceOnEventList
+ .text.vTaskPlaceOnEventListRestricted
+                0x00000000080019c8       0xc0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x00000000080019c8                vTaskPlaceOnEventListRestricted
+ .text.xTaskRemoveFromEventList
+                0x0000000008001a88       0x90 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x0000000008001a88                xTaskRemoveFromEventList
+ .text.vTaskSetTimeOutState
+                0x0000000008001b18       0x2c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x0000000008001b18                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x0000000008001b44       0x84 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x0000000008001b44                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x0000000008001bc8        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x0000000008001bc8                vTaskMissedYield
+ .text.xTaskGetSchedulerState
+                0x0000000008001bd4       0x20 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x0000000008001bd4                xTaskGetSchedulerState
+ .text.vTaskPriorityInherit
+                0x0000000008001bf4       0x9c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x0000000008001bf4                vTaskPriorityInherit
+ .text.xTaskPriorityDisinherit
+                0x0000000008001c90       0xb8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x0000000008001c90                xTaskPriorityDisinherit
+ .text.pvTaskIncrementMutexHeldCount
+                0x0000000008001d48       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x0000000008001d48                pvTaskIncrementMutexHeldCount
+ .text.prvSwitchTimerLists
+                0x0000000008001d60       0x98 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .text.prvTimerTask
+                0x0000000008001df8      0x264 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .text.xTimerCreateTimerTask
+                0x000000000800205c       0x98 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+                0x000000000800205c                xTimerCreateTimerTask
+ .text.pvPortMalloc
+                0x00000000080020f4      0x168 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+                0x00000000080020f4                pvPortMalloc
+ .text.vPortFree
+                0x000000000800225c       0xb8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+                0x000000000800225c                vPortFree
+ .text.RCC_AHB1PeriphClockCmd
+                0x0000000008002314       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+                0x0000000008002314                RCC_AHB1PeriphClockCmd
+ .text.GPIO_Init
+                0x000000000800232c       0x94 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+                0x000000000800232c                GPIO_Init
+ .text.GPIO_ToggleBits
+                0x00000000080023c0        0x8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+                0x00000000080023c0                GPIO_ToggleBits
+ .text.NVIC_PriorityGroupConfig
+                0x00000000080023c8       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+                0x00000000080023c8                NVIC_PriorityGroupConfig
+ .text.Reset_Handler
+                0x00000000080023dc       0x48 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/startup_stm32f4xx.o
+                0x00000000080023dc                Reset_Handler
+ .text.Default_Handler
+                0x0000000008002424        0x2 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/startup_stm32f4xx.o
+                0x0000000008002424                RTC_Alarm_IRQHandler
+                0x0000000008002424                HASH_RNG_IRQHandler
+                0x0000000008002424                EXTI2_IRQHandler
+                0x0000000008002424                TIM8_CC_IRQHandler
+                0x0000000008002424                TIM1_CC_IRQHandler
+                0x0000000008002424                DMA2_Stream5_IRQHandler
+                0x0000000008002424                DMA1_Stream5_IRQHandler
+                0x0000000008002424                PVD_IRQHandler
+                0x0000000008002424                SDIO_IRQHandler
+                0x0000000008002424                TAMP_STAMP_IRQHandler
+                0x0000000008002424                CAN2_RX1_IRQHandler
+                0x0000000008002424                EXTI3_IRQHandler
+                0x0000000008002424                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0000000008002424                TIM1_UP_TIM10_IRQHandler
+                0x0000000008002424                TIM8_UP_TIM13_IRQHandler
+                0x0000000008002424                I2C3_ER_IRQHandler
+                0x0000000008002424                EXTI0_IRQHandler
+                0x0000000008002424                I2C2_EV_IRQHandler
+                0x0000000008002424                DMA1_Stream2_IRQHandler
+                0x0000000008002424                CAN1_RX0_IRQHandler
+                0x0000000008002424                FPU_IRQHandler
+                0x0000000008002424                OTG_HS_WKUP_IRQHandler
+                0x0000000008002424                CAN2_SCE_IRQHandler
+                0x0000000008002424                DMA2_Stream2_IRQHandler
+                0x0000000008002424                SPI1_IRQHandler
+                0x0000000008002424                TIM6_DAC_IRQHandler
+                0x0000000008002424                TIM1_BRK_TIM9_IRQHandler
+                0x0000000008002424                DCMI_IRQHandler
+                0x0000000008002424                CAN2_RX0_IRQHandler
+                0x0000000008002424                DMA2_Stream3_IRQHandler
+                0x0000000008002424                USART6_IRQHandler
+                0x0000000008002424                USART3_IRQHandler
+                0x0000000008002424                CRYP_IRQHandler
+                0x0000000008002424                CAN1_RX1_IRQHandler
+                0x0000000008002424                UART5_IRQHandler
+                0x0000000008002424                DMA2_Stream0_IRQHandler
+                0x0000000008002424                TIM4_IRQHandler
+                0x0000000008002424                I2C1_EV_IRQHandler
+                0x0000000008002424                DMA1_Stream6_IRQHandler
+                0x0000000008002424                DMA1_Stream1_IRQHandler
+                0x0000000008002424                UART4_IRQHandler
+                0x0000000008002424                TIM3_IRQHandler
+                0x0000000008002424                RCC_IRQHandler
+                0x0000000008002424                TIM8_BRK_TIM12_IRQHandler
+                0x0000000008002424                Default_Handler
+                0x0000000008002424                EXTI15_10_IRQHandler
+                0x0000000008002424                ADC_IRQHandler
+                0x0000000008002424                DMA1_Stream7_IRQHandler
+                0x0000000008002424                TIM7_IRQHandler
+                0x0000000008002424                CAN2_TX_IRQHandler
+                0x0000000008002424                TIM5_IRQHandler
+                0x0000000008002424                DMA2_Stream7_IRQHandler
+                0x0000000008002424                I2C3_EV_IRQHandler
+                0x0000000008002424                EXTI9_5_IRQHandler
+                0x0000000008002424                RTC_WKUP_IRQHandler
+                0x0000000008002424                ETH_WKUP_IRQHandler
+                0x0000000008002424                SPI2_IRQHandler
+                0x0000000008002424                OTG_HS_EP1_IN_IRQHandler
+                0x0000000008002424                DMA1_Stream0_IRQHandler
+                0x0000000008002424                CAN1_TX_IRQHandler
+                0x0000000008002424                EXTI4_IRQHandler
+                0x0000000008002424                FSMC_IRQHandler
+                0x0000000008002424                ETH_IRQHandler
+                0x0000000008002424                OTG_HS_EP1_OUT_IRQHandler
+                0x0000000008002424                WWDG_IRQHandler
+                0x0000000008002424                TIM2_IRQHandler
+                0x0000000008002424                OTG_FS_WKUP_IRQHandler
+                0x0000000008002424                TIM1_TRG_COM_TIM11_IRQHandler
+                0x0000000008002424                OTG_HS_IRQHandler
+                0x0000000008002424                EXTI1_IRQHandler
+                0x0000000008002424                USART2_IRQHandler
+                0x0000000008002424                I2C2_ER_IRQHandler
+                0x0000000008002424                DMA2_Stream1_IRQHandler
+                0x0000000008002424                CAN1_SCE_IRQHandler
+                0x0000000008002424                FLASH_IRQHandler
+                0x0000000008002424                DMA2_Stream4_IRQHandler
+                0x0000000008002424                USART1_IRQHandler
+                0x0000000008002424                OTG_FS_IRQHandler
+                0x0000000008002424                SPI3_IRQHandler
+                0x0000000008002424                DMA1_Stream4_IRQHandler
+                0x0000000008002424                I2C1_ER_IRQHandler
+                0x0000000008002424                DMA2_Stream6_IRQHandler
+                0x0000000008002424                DMA1_Stream3_IRQHandler
+ *fill*         0x0000000008002426        0x2 
+ .text.__libc_init_array
+                0x0000000008002428       0x48 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+                0x0000000008002428                __libc_init_array
+ .text.memset   0x0000000008002470       0xa4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+                0x0000000008002470                memset
+ .text.startup.register_fini
+                0x0000000008002514       0x14 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x0000000008002528        0xc /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+                0x0000000008002528                atexit
+ .text.__libc_fini_array
+                0x0000000008002534       0x2c /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+                0x0000000008002534                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x0000000008002560        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+                0x0000000008002560                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000000008002564        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+                0x0000000008002564                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x0000000008002568       0x8c /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+                0x0000000008002568                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x00000000080025f4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000080025f4        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x00000000080025f4        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x00000000080025f4        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x00000000080025f4                _init
+ .init          0x00000000080025f8        0x8 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0000000008002600        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008002600                _fini
+ .fini          0x0000000008002604        0x8 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x000000000800260c                . = ALIGN (0x4)
+                0x000000000800260c                _etext = .
+
+.vfp11_veneer   0x000000000800260c        0x0
+ .vfp11_veneer  0x000000000800260c        0x0 linker stubs
+
+.v4_bx          0x000000000800260c        0x0
+ .v4_bx         0x000000000800260c        0x0 linker stubs
+
+.iplt           0x000000000800260c        0x0
+ .iplt          0x000000000800260c        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x000000000800260c       0x20
+                0x000000000800260c                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.main.str1.4
+                0x000000000800260c        0xc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .rodata.xTimerCreateTimerTask.str1.4
+                0x0000000008002618       0x10 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .rodata._global_impure_ptr
+                0x0000000008002628        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+                0x0000000008002628                _global_impure_ptr
+                0x000000000800262c                . = ALIGN (0x4)
+
+.rel.dyn        0x000000000800262c        0x0
+ .rel.iplt      0x000000000800262c        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x000000000800262c        0x0
+                0x000000000800262c                __exidx_start = .
+ *(.ARM.exidx*)
+                0x000000000800262c                __exidx_end = .
+
+.preinit_array  0x000000000800262c        0x0
+                0x000000000800262c                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x000000000800262c                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x000000000800262c        0x8
+                0x000000000800262c                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x000000000800262c        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x0000000008002630        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000008002634                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000008002634        0x4
+                0x0000000008002634                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008002634        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000008002638                PROVIDE (__fini_array_end = .)
+                0x0000000008002638                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000      0x434 load address 0x0000000008002638
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x0000000020000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+                0x0000000020000000                SystemCoreClock
+ .data.uxCriticalNesting
+                0x0000000020000004        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .data.impure_data
+                0x0000000020000008      0x428 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x0000000020000430        0x4 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+                0x0000000020000430                __atexit_recursive_mutex
+                0x0000000020000434                . = ALIGN (0x4)
+                0x0000000020000434                _edata = .
+
+.igot.plt       0x0000000020000434        0x0 load address 0x0000000008002a6c
+ .igot.plt      0x0000000020000434        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000020000434                . = ALIGN (0x4)
+
+.bss            0x0000000020000438    0x12dc4 load address 0x0000000008002a6c
+                0x0000000020000438                _sbss = .
+                0x0000000020000438                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000438       0x1c /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.ucMaxSysCallPriority
+                0x0000000020000454        0x1 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ *fill*         0x0000000020000455        0x3 
+ .bss.ulMaxPRIGROUPValue
+                0x0000000020000458        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ *fill*         0x000000002000045c        0x4 
+ .bss.xQueueRegistry
+                0x0000000020000460       0x40 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+                0x0000000020000460                xQueueRegistry
+ .bss.pxCurrentTCB
+                0x00000000200004a0        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                0x00000000200004a0                pxCurrentTCB
+ .bss.pxDelayedTaskList
+                0x00000000200004a4        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x00000000200004a8        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.pxReadyTasksLists
+                0x00000000200004ac       0x64 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x0000000020000510        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x0000000020000514        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.uxPendedTicks
+                0x0000000020000518        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.uxSchedulerSuspended
+                0x000000002000051c        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.uxTaskNumber
+                0x0000000020000520        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.uxTopReadyPriority
+                0x0000000020000524        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.xDelayedTaskList1
+                0x0000000020000528       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.xDelayedTaskList2
+                0x000000002000053c       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.xIdleTaskHandle
+                0x0000000020000550        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x0000000020000554        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.xNumOfOverflows
+                0x0000000020000558        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.xPendingReadyList
+                0x000000002000055c       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.xSchedulerRunning
+                0x0000000020000570        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.xSuspendedTaskList
+                0x0000000020000574       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.xTasksWaitingTermination
+                0x0000000020000588       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.xTickCount
+                0x000000002000059c        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.xYieldPending
+                0x00000000200005a0        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .bss.pxCurrentTimerList
+                0x00000000200005a4        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .bss.pxOverflowTimerList
+                0x00000000200005a8        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .bss.xActiveTimerList1
+                0x00000000200005ac       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .bss.xActiveTimerList2
+                0x00000000200005c0       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .bss.xLastTime.0
+                0x00000000200005d4        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .bss.xTimerQueue
+                0x00000000200005d8        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .bss.xTimerTaskHandle
+                0x00000000200005dc        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .bss.pxEnd     0x00000000200005e0        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .bss.ucHeap    0x00000000200005e4    0x12c00 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .bss.xBlockAllocatedBit
+                0x00000000200131e4        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .bss.xFreeBytesRemaining
+                0x00000000200131e8        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .bss.xMinimumEverFreeBytesRemaining
+                0x00000000200131ec        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .bss.xStart    0x00000000200131f0        0x8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000200131f8        0x1 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+                0x00000000200131f8                __lock___atexit_recursive_mutex
+ *(COMMON)
+                0x00000000200131fc                . = ALIGN (0x4)
+ *fill*         0x00000000200131f9        0x3 
+                0x00000000200131fc                _ebss = .
+                0x00000000200131fc                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x00000000200131fc      0x604 load address 0x0000000008002a6c
+                0x0000000020013200                . = ALIGN (0x8)
+ *fill*         0x00000000200131fc        0x4 
+                0x0000000020013200                PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x0000000020013400                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020013200      0x200 
+                0x0000000020013800                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020013400      0x400 
+                0x0000000020013800                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+ .ARM.attributes
+                0x0000000000000086       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .ARM.attributes
+                0x00000000000000ba       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .ARM.attributes
+                0x00000000000000ee       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .ARM.attributes
+                0x0000000000000122       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+ .ARM.attributes
+                0x0000000000000156       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .ARM.attributes
+                0x000000000000018a       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .ARM.attributes
+                0x00000000000001be       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .ARM.attributes
+                0x00000000000001f2       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .ARM.attributes
+                0x0000000000000226       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .ARM.attributes
+                0x000000000000025a       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .ARM.attributes
+                0x000000000000028e       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+ .ARM.attributes
+                0x00000000000002c2       0x21 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/startup_stm32f4xx.o
+ .ARM.attributes
+                0x00000000000002e3       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000317       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000000000034b       0x1c /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000367       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000039b       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000003cf       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000403       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000437       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000000000000046b       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000000000000049f       0x1e /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(/home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/binary/FreeRTOS.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+
+.debug_info     0x0000000000000000     0xaf91
+ .debug_info    0x0000000000000000      0x18e /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+ .debug_info    0x000000000000018e      0x559 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .debug_info    0x00000000000006e7      0x712 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .debug_info    0x0000000000000df9      0x547 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .debug_info    0x0000000000001340      0x2ce /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+ .debug_info    0x000000000000160e     0x26a6 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .debug_info    0x0000000000003cb4     0x38bb /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .debug_info    0x000000000000756f     0x1638 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .debug_info    0x0000000000008ba7      0x4f9 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .debug_info    0x00000000000090a0     0x10b8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .debug_info    0x000000000000a158      0x8b7 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .debug_info    0x000000000000aa0f      0x582 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+
+.debug_abbrev   0x0000000000000000     0x1b61
+ .debug_abbrev  0x0000000000000000       0xd5 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+ .debug_abbrev  0x00000000000000d5      0x12c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .debug_abbrev  0x0000000000000201      0x211 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .debug_abbrev  0x0000000000000412      0x253 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .debug_abbrev  0x0000000000000665       0xff /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+ .debug_abbrev  0x0000000000000764      0x3a8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .debug_abbrev  0x0000000000000b0c      0x495 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .debug_abbrev  0x0000000000000fa1      0x2f1 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .debug_abbrev  0x0000000000001292      0x2a8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .debug_abbrev  0x000000000000153a      0x27f /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .debug_abbrev  0x00000000000017b9      0x221 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .debug_abbrev  0x00000000000019da      0x187 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+
+.debug_aranges  0x0000000000000000      0x750
+ .debug_aranges
+                0x0000000000000000       0x48 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+ .debug_aranges
+                0x0000000000000048       0x28 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .debug_aranges
+                0x0000000000000070       0x58 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .debug_aranges
+                0x00000000000000c8       0x80 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .debug_aranges
+                0x0000000000000148       0x40 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+ .debug_aranges
+                0x0000000000000188       0xe8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .debug_aranges
+                0x0000000000000270      0x1a0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .debug_aranges
+                0x0000000000000410       0x78 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .debug_aranges
+                0x0000000000000488       0x40 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .debug_aranges
+                0x00000000000004c8      0x1c0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .debug_aranges
+                0x0000000000000688       0x88 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .debug_aranges
+                0x0000000000000710       0x40 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+
+.debug_ranges   0x0000000000000000     0x11d8
+ .debug_ranges  0x0000000000000000       0x38 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+ .debug_ranges  0x0000000000000038       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .debug_ranges  0x0000000000000050       0x60 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .debug_ranges  0x00000000000000b0       0xb0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .debug_ranges  0x0000000000000160       0x30 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+ .debug_ranges  0x0000000000000190      0x378 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .debug_ranges  0x0000000000000508      0x798 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .debug_ranges  0x0000000000000ca0      0x250 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .debug_ranges  0x0000000000000ef0       0x70 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .debug_ranges  0x0000000000000f60      0x1d0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .debug_ranges  0x0000000000001130       0x78 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .debug_ranges  0x00000000000011a8       0x30 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+
+.debug_line     0x0000000000000000     0x98a7
+ .debug_line    0x0000000000000000      0x1f8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+ .debug_line    0x00000000000001f8      0x2ea /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .debug_line    0x00000000000004e2      0x423 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .debug_line    0x0000000000000905      0x79f /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .debug_line    0x00000000000010a4      0x37e /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+ .debug_line    0x0000000000001422     0x2368 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .debug_line    0x000000000000378a     0x34cf /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .debug_line    0x0000000000006c59      0xd9c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .debug_line    0x00000000000079f5      0x702 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .debug_line    0x00000000000080f7      0xdc9 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .debug_line    0x0000000000008ec0      0x643 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .debug_line    0x0000000000009503      0x3a4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+
+.debug_str      0x0000000000000000     0x2f4d
+ .debug_str     0x0000000000000000      0x22b /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+                                        0x268 (size before relaxing)
+ .debug_str     0x000000000000022b      0x22e /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+                                        0x3c7 (size before relaxing)
+ .debug_str     0x0000000000000459      0x480 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+                                        0x637 (size before relaxing)
+ .debug_str     0x00000000000008d9      0x292 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+                                        0x472 (size before relaxing)
+ .debug_str     0x0000000000000b6b      0x16c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+                                        0x311 (size before relaxing)
+ .debug_str     0x0000000000000cd7      0x723 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+                                        0xa4c (size before relaxing)
+ .debug_str     0x00000000000013fa      0xa84 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+                                       0x10f1 (size before relaxing)
+ .debug_str     0x0000000000001e7e      0x452 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+                                        0x8b1 (size before relaxing)
+ .debug_str     0x00000000000022d0      0x1f5 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+                                        0x417 (size before relaxing)
+ .debug_str     0x00000000000024c5      0x6f8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+                                        0xa33 (size before relaxing)
+ .debug_str     0x0000000000002bbd      0x1a8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+                                        0x528 (size before relaxing)
+ .debug_str     0x0000000000002d65      0x1e8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+                                        0x43f (size before relaxing)
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .comment       0x0000000000000049       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .comment       0x0000000000000049       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .comment       0x0000000000000049       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+ .comment       0x0000000000000049       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .comment       0x0000000000000049       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .comment       0x0000000000000049       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .comment       0x0000000000000049       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .comment       0x0000000000000049       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .comment       0x0000000000000049       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .comment       0x0000000000000049       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+
+.debug_frame    0x0000000000000000     0x1658
+ .debug_frame   0x0000000000000000       0x90 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_it.o
+ .debug_frame   0x0000000000000090       0x3c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .debug_frame   0x00000000000000cc       0xc4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .debug_frame   0x0000000000000190      0x104 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .debug_frame   0x0000000000000294       0x88 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+ .debug_frame   0x000000000000031c      0x2fc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .debug_frame   0x0000000000000618      0x6c4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .debug_frame   0x0000000000000cdc      0x1a8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .debug_frame   0x0000000000000e84       0x88 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .debug_frame   0x0000000000000f0c      0x38c /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .debug_frame   0x0000000000001298      0x168 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .debug_frame   0x0000000000001400       0x60 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o
+ .debug_frame   0x0000000000001460       0x2c /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+ .debug_frame   0x000000000000148c       0x2c /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000000014b8       0x68 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000001520       0x20 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000001540       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+ .debug_frame   0x0000000000001574       0xb0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .debug_frame   0x0000000000001624       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+
+.debug_loc      0x0000000000000000     0x7f83
+ .debug_loc     0x0000000000000000      0x118 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/system_stm32f4xx.o
+ .debug_loc     0x0000000000000118       0x4f /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/main.o
+ .debug_loc     0x0000000000000167       0xf4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/port.o
+ .debug_loc     0x000000000000025b       0xbc /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/list.o
+ .debug_loc     0x0000000000000317     0x21dd /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/queue.o
+ .debug_loc     0x00000000000024f4     0x2f1a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/tasks.o
+ .debug_loc     0x000000000000540e     0x1196 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/timers.o
+ .debug_loc     0x00000000000065a4      0x653 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/heap_4.o
+ .debug_loc     0x0000000000006bf7      0xe1d /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_rcc.o
+ .debug_loc     0x0000000000007a14      0x3a8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/stm32f4xx_gpio.o
+ .debug_loc     0x0000000000007dbc      0x1c7 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_LED/build/misc.o

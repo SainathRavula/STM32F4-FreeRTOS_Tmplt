@@ -1,7 +1,5 @@
 Archive member included to satisfy reference by file (symbol)
 
-/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
-                              /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o (__errno)
 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
                               /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
@@ -66,33 +64,6 @@ Discarded input sections
                 0x0000000000000000       0x58 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/main.o
  .bss.xTimerTaskTCB
                 0x0000000000000000       0x58 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/main.o
- .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .text._open    0x0000000000000000        0x8 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .text._read    0x0000000000000000       0x10 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .text._lseek   0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .text._write   0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .text._close   0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .text._sbrk    0x0000000000000000       0x38 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .text._fstat   0x0000000000000000       0x18 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .text._isatty  0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .text._kill    0x0000000000000000       0x10 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .text._getpid  0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .bss.heap_end.0
-                0x0000000000000000        0x4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .debug_info    0x0000000000000000      0x589 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .debug_abbrev  0x0000000000000000      0x192 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .debug_loc     0x0000000000000000      0x24f /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .debug_aranges
-                0x0000000000000000       0x68 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .debug_ranges  0x0000000000000000       0x58 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .debug_line    0x0000000000000000      0x2c4 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .debug_str     0x0000000000000000      0x3c2 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .comment       0x0000000000000000       0x4a /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .debug_frame   0x0000000000000000       0xd0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
- .ARM.attributes
-                0x0000000000000000       0x34 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
  .text          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/port.o
  .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/port.o
  .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/port.o
@@ -465,13 +436,6 @@ Discarded input sections
  .text          0x0000000000000000       0x14 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/startup_stm32f4xx.o
  .data          0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/startup_stm32f4xx.o
  .bss           0x0000000000000000        0x0 /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/startup_stm32f4xx.o
- .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
- .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
- .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
- .text.__errno  0x0000000000000000        0xc /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
- .debug_frame   0x0000000000000000       0x20 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
- .ARM.attributes
-                0x0000000000000000       0x34 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-errno.o)
  .text          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
  .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
  .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
@@ -568,7 +532,6 @@ LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/
 LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/stm32f4xx_it.o
 LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/system_stm32f4xx.o
 LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/main.o
-LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/syscalls.o
 LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/port.o
 LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/list.o
 LOAD /home/vlab/FreeRTOS_Work/STM32F4_Firmware/STM32F4-FreeRTOS_Tmplt/build/queue.o
@@ -1142,7 +1105,7 @@ LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
                 0x000000002001320c      0x604
                 0x0000000020013210                . = ALIGN (0x8)
  *fill*         0x000000002001320c        0x4 
-                0x0000000020013210                PROVIDE (end = .)
+                [!provide]                        PROVIDE (end = .)
                 [!provide]                        PROVIDE (_end = .)
                 0x0000000020013410                . = (. + _Min_Heap_Size)
  *fill*         0x0000000020013210      0x200 

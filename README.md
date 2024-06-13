@@ -1,6 +1,6 @@
 This repository contains demo project of porting FreeRtos to STM32F4 by linux using Makefile.(STM32F411E).
 
-Implementation of blinking red and green LEDs on board.
+A simple application is implemented to blink LEDs on the board, and for debugging, print statements are sent via USART.
 
 -->Refering these link
 

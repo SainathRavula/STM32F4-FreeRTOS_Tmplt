@@ -1,6 +1,8 @@
 #include "stm32f4xx.h"
 #include "FreeRTOS.h"
 #include "task.h"
+#include "stdlib.h"
+#include "stdio.h"
 
 static void setup_hardware(void);
 void vGreen_LED(void* pvParameters);
@@ -20,47 +22,49 @@ int main(void)
   	for (;;);
 }
 
-void vApplicationIdleHook(void) 
-{
-	//Idle Task	
-}
-
-void vApplicationStackOverflowHook(TaskHandle_t xTask, char* pcTaskName) 
-{
-  	for (;;);
-}
-
-void vApplicationMallocFailedHook(void) 
-{
-  	for (;;);
-}
-
 static void setup_hardware(void) 
 {
 	SystemInit();
-	NVIC_PriorityGroupConfig(NVIC_PriorityGroup_4);
+	SystemCoreClockUpdate();
+	SysTick_Config(SystemCoreClock/1000);
+	NVIC_SetPriority(SysTick_IRQn,1);
 }
 
-
-void vApplicationGetIdleTaskMemory(StaticTask_t** ppxIdleTaskTCBBuffer, StackType_t** ppxIdleTaskStackBuffer, uint32_t* pulIdleTaskStackSize) 
+void vApplicationIdleHook(void) 
 {
-	static StaticTask_t xIdleTaskTCB;
-	static StackType_t uxIdleTaskStack[configMINIMAL_STACK_SIZE];
-  
-	*ppxIdleTaskTCBBuffer = &xIdleTaskTCB;
-	*ppxIdleTaskStackBuffer = uxIdleTaskStack;
-	*pulIdleTaskStackSize = configMINIMAL_STACK_SIZE;
+	//Idle Task
+/*
+	int i;
+	USART_SendString(USART1,"##In IDLE Task##    ");
+	for(i=0;i<10000;i++);
+	vTaskDelay(1000);
+*/
+
 }
-static StaticTask_t xTimerTaskTCB;
-static StackType_t uxTimerTaskStack[configTIMER_TASK_STACK_DEPTH];
 
+void vApplicationStackOverflowHook(TaskHandle_t xTask, char* pcTaskName) 
+{	
+	//Stack Overflow Hook
+	
+	USART_SendString(USART1,"[ERROR] Stack Overflow Detected    ");
+}
 
-void vApplicationGetTimerTaskMemory(StaticTask_t** ppxTimerTaskTCBBuffer, StackType_t** ppxTimerTaskStackBuffer, uint32_t* pulTimerTaskStackSize) 
+void vApplicationMallocFailedHook(void) 
+{	
+	//Malloc Fail Hook
+	
+	USART_SendString(USART1,"[ERROR] Failed to Allocate Memory    ");
+}
+
+void vAssertCalled(unsigned long ulLine, const char * const pcFileName) 
 {
-	*ppxTimerTaskTCBBuffer = &xTimerTaskTCB;
-	*ppxTimerTaskStackBuffer = uxTimerTaskStack;
-	*pulTimerTaskStackSize = configTIMER_TASK_STACK_DEPTH;
+	//Assertion Fail Hook
+	
+	char buffer[100];
+	sprintf(buffer, "[ASSERT] Assertion failed in %s at line %lu    ", pcFileName, ulLine);
+	USART_SendString(USART1, buffer);
 }
+
 
 void vGreen_LED(void* pvParameters) 
 {

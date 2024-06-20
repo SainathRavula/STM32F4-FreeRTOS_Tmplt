@@ -131,7 +131,7 @@ LDLIBS		+= -lgcc	#links GCC support lib (libgcc), which contains runtime support
 
 ##Linker Flags##
 LDFLAGS 	 = $(MCUFLAGS)
-LDFLAGS 	+= -fno-exceptions			#-fno-exceptions flag disables exception handling support
+LDFLAGS 	+= -fno-exceptions			#-Wl prefix passes options to the linker, Flag disables exceptions handling support.
 LDFLAGS 	+= -Wl,--gc-sections			#Instructs the linker to enable garbage collection of unused sec.
 LDFLAGS 	+= -T$(LINKER_SCRIPT)			#Specifies the linker script (LINKER_SCRIPT) to use during the linking process.
 LDFLAGS 	+= -Wl,-Map=$(BIN_DIR)/$(TARGET).map	#Generates a mem map file ($(BIN_DIR)/$(TARGET).map) during the linking process.
